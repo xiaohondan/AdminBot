@@ -2,6 +2,9 @@
 
 <a href="https://trendshift.io/repositories/12875" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12875" alt="Soulter%2FAstrBot | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
+<a  href="https://qm.qq.com/cgi-bin/qm/qr?k=wtbaNx7EioxeaqS9z7RQWVXPIxg2zYr7&jump_from=webapi&authKey=vlqnv/AV2DbJEvGIcxdlNSpfxVy+8vVqijgreRdnVKOaydpc+YSw4MctmEbr0k5"><img alt="QQ_community" src="https://pd.qq.com/s/gqbtcp13tQQ-3815099625-purple?style=for-the-badge&color=76bad9"></a>
+<a href="https://github.com/Soulter/AdminBot/edit/main/README_en.md">English</a> ｜
+<a href="https://github.com/Soulter/AdminBotBot/edit/main/README_ja.md">日本語</a> ｜
 
 ## 项目简介
 AdminBot是一个基于QQ的猫娘机器人，旨在为用户提供有趣的互动体验。该机器人能够根据用户的消息生成猫娘相关的回复。
