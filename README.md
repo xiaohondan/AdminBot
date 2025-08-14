@@ -1,5 +1,8 @@
 # AdminBot - 猫娘机器人项目
 
+<a href="https://trendshift.io/repositories/12875" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12875" alt="Soulter%2FAstrBot | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+
 ## 项目简介
 AdminBot是一个基于QQ的猫娘机器人，旨在为用户提供有趣的互动体验。该机器人能够根据用户的消息生成猫娘相关的回复。
 
