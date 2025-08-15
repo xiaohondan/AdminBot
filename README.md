@@ -29,7 +29,7 @@ AdminBot
 ## 安装
 1. 克隆项目到本地：
    ```
-   git clone https://github.com/xiaohhondan/AdminBot.git
+   git clone https://github.com/xiaohondan/AdminBot.git
    ```
 2. 进入项目目录：
    ```
