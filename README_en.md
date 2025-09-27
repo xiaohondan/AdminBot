@@ -2,7 +2,7 @@
 <a href="https://trendshift.io/repositories/12875" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12875" alt="Soulter%2FAstrBot | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <a href="https://www.duitang.com/blog/?id=1385717149" src="https://pd.qq.com/s/gqbtcp13tQQ-3815099625-purple?style=for-the-badge&color=76bad9"></a>
-<a href="https://github.com/xiaohondan/AdminBot/blob/main/README.md">简体中文</a>
+<a href="https://github.com/xiaohondan/AdminBot/blob/main/README.md">简体中文</a> ｜
 <a href="https://github.com/xiaohondan/AdminBot/blob/main/README_en.md">English</a> ｜
 <a href="https://github.com/xiaohondan/AdminBot/blob/main/README_ja.md">日本語</a> ｜
 ## Project Introduction
